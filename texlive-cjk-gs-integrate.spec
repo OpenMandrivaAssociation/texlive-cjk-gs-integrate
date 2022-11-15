@@ -31,10 +31,10 @@ mkdir -p %{buildroot}%{_datadir}
 cp -a texmf-dist %{buildroot}%{_datadir}
 
 %files
-%doc %{_texmfdistdir}/texmf-dist/source/fonts/cjk-gs-integrate
-%{_texmfdistdir}/texmf-dist/scripts/cjk-gs-integrate
-%{_texmfdistdir}/texmf-dist/fonts/misc/cjk-gs-integrate
-%doc %{_texmfdistdir}/texmf-dist/doc/fonts/cjk-gs-integrate
+%doc %{_texmfdistdir}/source/fonts/cjk-gs-integrate
+%{_texmfdistdir}/scripts/cjk-gs-integrate
+%{_texmfdistdir}/fonts/misc/cjk-gs-integrate
+%doc %{_texmfdistdir}/doc/fonts/cjk-gs-integrate
 
 %post -p %{_sbindir}/texlive.post
 
