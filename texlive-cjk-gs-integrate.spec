@@ -1,6 +1,6 @@
 Name:		texlive-cjk-gs-integrate
 Version:	59705
-Release:	1
+Release:	2
 Summary:	Tools to integrate CJK fonts into Ghostscript
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cjk-gs-integrate
