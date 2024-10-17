@@ -3,7 +3,7 @@ Version:	59705
 Release:	2
 Summary:	Tools to integrate CJK fonts into Ghostscript
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cjk-gs-integrate
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cjk-gs-integrate
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cjk-gs-integrate.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cjk-gs-integrate.doc.r%{version}.tar.xz
